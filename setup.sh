@@ -32,6 +32,7 @@ cd external
 
 if [ ! -d "robotoc" ]; then
   git clone https://github.com/mayataka/robotoc.git
+  git checkout c0ebe305af90a75d258ee728782615ac0367c725
 fi
 
 cd robotoc
