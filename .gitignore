@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Build artifacts
+external/
+build/
+install/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+
+# Logs
+*.log
